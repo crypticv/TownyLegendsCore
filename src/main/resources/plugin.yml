@@ -1,0 +1,6 @@
+name: TownyLegendsCore
+version: '${project.version}'
+main: com.crypticv.townylegendscore.TownyLegendsCore
+api-version: 1.19
+authors: [ CrypticV ]
+description: The core plugin for Towny legends Minecraft server.
